@@ -1,6 +1,0 @@
-docker build -t abdulhannank/static .  
-docker run -p 80:80 -d abdulhannank/static
-docker push abdulhannank/static
-
-[URL DOCKER IMAGE]
-https://hub.docker.com/repository/docker/abdulhannank/static
